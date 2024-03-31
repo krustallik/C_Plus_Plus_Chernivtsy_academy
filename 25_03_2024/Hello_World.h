@@ -1,0 +1,14 @@
+//
+// Created by wowan on 31.03.2024.
+//
+
+#ifndef C_PLUS_PLUS_CHERNIVTSY_ACADEMY_HELLO_WORLD_H
+#define C_PLUS_PLUS_CHERNIVTSY_ACADEMY_HELLO_WORLD_H
+
+
+class Hello_World {
+
+};
+
+
+#endif //C_PLUS_PLUS_CHERNIVTSY_ACADEMY_HELLO_WORLD_H
